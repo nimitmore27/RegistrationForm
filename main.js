@@ -27,6 +27,7 @@ submitbtn.onclick = function(){
         }
     }
     if(flag==1){
+        flag = 0;
         return;
     }
     else{
